@@ -1,0 +1,3 @@
+# SKY_SOCKET_SENIOR_DESIGN_II
+
+SKY SOCKET SD2 project - FINALIZED - With Dr. Bruce Maxim, Dr. Zheng Song, and Dr. Abuo-Nasr - UNIVERISTY OF MICHIGAN-DEARBORN
